@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+  <symbol id="i-wrench" viewBox="0 0 64 64">
+    <path d="M26 14a12 12 0 0 1 16 16l-18 18-8-8 18-18a8 8 0 1 0-11.3-11.3L18 15" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m38 42 10 10 6-6-10-10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="i-brake" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="18" stroke="currentColor" stroke-width="3"/>
+    <circle cx="32" cy="32" r="7" stroke="currentColor" stroke-width="3"/>
+    <path d="M32 14v6M32 44v6M14 32h6M44 32h6M19 19l4 4M41 41l4 4M19 45l4-4M41 23l4-4" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="i-diag" viewBox="0 0 64 64">
+    <rect x="10" y="16" width="44" height="32" rx="3" stroke="currentColor" stroke-width="3"/>
+    <path d="M18 32h6l4-8 8 16 4-8h6" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 48v4M42 48v4" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="i-itv" viewBox="0 0 64 64">
+    <rect x="14" y="12" width="36" height="44" rx="3" stroke="currentColor" stroke-width="3"/>
+    <path d="M22 24h20M22 34h20M22 44h12" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <path d="m40 42 4 4 8-10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="i-oil" viewBox="0 0 64 64">
+    <path d="M32 10c8 10 16 18 16 28a16 16 0 1 1-32 0c0-10 8-18 16-28Z" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M24 40c2 6 8 10 14 8" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="i-pin" viewBox="0 0 64 64">
+    <path d="M32 56s16-18 16-28a16 16 0 1 0-32 0c0 10 16 28 16 28Z" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="32" cy="26" r="6" stroke="currentColor" stroke-width="3"/>
+  </symbol>
+  <symbol id="i-phone" viewBox="0 0 64 64">
+    <path d="M18 12h10l4 10-6 4a28 28 0 0 0 12 12l4-6 10 4v10c0 2-2 4-6 4C28 56 8 36 8 18c0-4 2-6 10-6Z" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="i-clock" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="20" stroke="currentColor" stroke-width="3"/>
+    <path d="M32 20v14l10 6" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+</svg>
